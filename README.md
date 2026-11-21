@@ -1,4 +1,4 @@
-# 📰 ActuSen — Site d'actualités en PHP
+# ActuSen — Site d'actualités en PHP
 
 ![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white) ![ESP](https://img.shields.io/badge/ESP_Dakar-Projet_académique-1f6f50?style=flat-square)
 
